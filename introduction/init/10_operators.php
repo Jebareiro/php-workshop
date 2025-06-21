@@ -6,7 +6,7 @@
  */
 
  // APLICACION AL SISTEMA DE TALLERES:
- // -----------------------------------
+ // ------------------------------------
 
  // 1. OPERADORES ARITMETICOS (calculo de cupos)
  $cupos_taller_uno = 20;

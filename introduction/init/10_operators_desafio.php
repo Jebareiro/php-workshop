@@ -6,7 +6,7 @@
  * 2. Usa operadores de comparación para verificar si $edad >= $edad_minima.
  * 3. Combina dos condiciones con operadores lógicos (ej: taller disponible Y cupos > 0).
  * 4. Concatena $taller1 y $taller2 con el operador de string.
- * 5. Extra: Usa el operador ternario para asignar "Abierto" o "Cerrado".
+ * 5. Extra>: Usa el operador ternario para asignar "Abierto" o "Cerrado".
  */
 
 // 1.
